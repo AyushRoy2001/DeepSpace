@@ -16,6 +16,11 @@ This is the official implementation  of "DeepSpace: Navigating the Frontier of D
 
 saved model weights: https://drive.google.com/drive/folders/1t7PEjDuakjjJIYgG5ziB4yDjE81Dac8r?usp=sharing
 
+## Results
+### Feature representation
+![features](https://github.com/user-attachments/assets/3b281d75-d653-4464-aaf6-db37b5a4d626)
+
+
 ## Authors :nerd_face:
 Ayush Roy<br/>
 Sk Mohiuddin<br/>
