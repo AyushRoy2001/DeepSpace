@@ -20,6 +20,8 @@ saved model weights: https://drive.google.com/drive/folders/1t7PEjDuakjjJIYgG5zi
 ### Feature representation
 ![features](https://github.com/user-attachments/assets/3b281d75-d653-4464-aaf6-db37b5a4d626)
 
+### Confusion matrix
+![cm](https://github.com/user-attachments/assets/fc46b07f-677d-4852-a714-fcf5e9195ee3)
 
 ## Authors :nerd_face:
 Ayush Roy<br/>
