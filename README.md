@@ -29,3 +29,15 @@ Sk Mohiuddin<br/>
 Maxim Minenko<br/>
 Dmitrii Kaplun<br/>
 Ram Sarkar<br/>
+
+## Citation :thinking:
+Please do cite our paper in case you find it useful for your research.<br/>
+```
+@article{roy163deepspace,
+  title={DeepSpace: Navigating the Frontier of Deepfake Identification Using Attention-Driven Xception and a Task-Specific Subspace},
+  author={Roy, Ayush and Mohiuddin, Sk and Minenko, Maxim and Kaplun, Dmitrii and Sarkar, Ram},
+  journal={Proceedings Copyright},
+  volume={163},
+  pages={172}
+}
+```
